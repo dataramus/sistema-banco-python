@@ -13,7 +13,7 @@ Este projeto é um sistema bancário simples implementado em Python, que permite
 
 ## Motivação
 
-Desenvolvi este projeto para demonstrar minha capacidade de criar aplicações que interagem com o usuário, lidam com lógica de negócios e garantem a segurança das operações financeiras básicas. Este código serve como exemplo do meu entendimento das estruturas de controle em Python, manuseio de dados e implementação de regras de negócio.
+Desenvolvi este projeto para demonstrar minha capacidade de meu entendimento das estruturas de controle em Python, manuseio de dados e implementação de regras de negócio.
 
 ## Como Usar
 
