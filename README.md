@@ -27,7 +27,7 @@ Desenvolvi este projeto para demonstrar minha capacidade de criar aplicações q
    ```
 3. **Execute o script:**
    ```bash
-   python sistema_bancario.py
+   python sisbanco.py
    ```
 
 ### Interface do Usuário
